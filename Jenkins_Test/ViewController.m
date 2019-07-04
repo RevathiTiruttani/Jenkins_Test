@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"Launched Succesfully");
-    NSLog(@"Jenkins Launched Succesfully")
+    NSLog(@"Jenkins build Launched Succesfully")
 
     [UIView animateWithDuration:0.5
                           delay:0.2f
