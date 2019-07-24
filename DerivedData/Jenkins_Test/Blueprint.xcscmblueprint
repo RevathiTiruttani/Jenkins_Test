@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A8333457C3265A2AF43E34EA541DE0C9D3D25137",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A8333457C3265A2AF43E34EA541DE0C9D3D25137" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0997942B-9F14-460E-9D67-2AC08D23D3C4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A8333457C3265A2AF43E34EA541DE0C9D3D25137" : "Jenkins_Test\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Jenkins_Test",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Jenkins_Test.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/RevathiTiruttani\/Jenkins_Test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A8333457C3265A2AF43E34EA541DE0C9D3D25137"
+    }
+  ]
+}

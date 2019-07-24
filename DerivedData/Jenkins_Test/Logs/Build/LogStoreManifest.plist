@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>2F5A2647-1438-4FBD-AAE4-B34B3A945C28</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2F5A2647-1438-4FBD-AAE4-B34B3A945C28.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Jenkins_Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Jenkins_Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Jenkins_Test</string>
+			<key>timeStartedRecording</key>
+			<real>585645436.39916098</real>
+			<key>timeStoppedRecording</key>
+			<real>585645467.46942997</real>
+			<key>title</key>
+			<string>Build Jenkins_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>2F5A2647-1438-4FBD-AAE4-B34B3A945C28</string>
+		</dict>
+		<key>596224E3-C3BA-417E-8641-857813143272</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>596224E3-C3BA-417E-8641-857813143272.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Jenkins_Test Workspace</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Jenkins_Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Jenkins_Test</string>
+			<key>timeStartedRecording</key>
+			<real>585211342.302127</real>
+			<key>timeStoppedRecording</key>
+			<real>585211343.86993694</real>
+			<key>title</key>
+			<string>Build Jenkins_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>596224E3-C3BA-417E-8641-857813143272</string>
+		</dict>
+		<key>EB2769A8-9AC1-4251-9BAA-139FB7018E09</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EB2769A8-9AC1-4251-9BAA-139FB7018E09.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Jenkins_Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Jenkins_Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archive Jenkins_Test</string>
+			<key>timeStartedRecording</key>
+			<real>585649455.14653206</real>
+			<key>timeStoppedRecording</key>
+			<real>585649483.85262501</real>
+			<key>title</key>
+			<string>Archive Jenkins_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>EB2769A8-9AC1-4251-9BAA-139FB7018E09</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

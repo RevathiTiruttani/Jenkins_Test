@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>7F854851-A6F2-4012-A939-8E7D39FF8766</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>7F854851-A6F2-4012-A939-8E7D39FF8766.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>signature</key>
+			<string>Jenkins_Test-cdumbwsttbaaaickvnvfalplvisr</string>
+			<key>timeStartedRecording</key>
+			<real>585649455.38333404</real>
+			<key>timeStoppedRecording</key>
+			<real>585649483.85225594</real>
+			<key>title</key>
+			<string>Build target Jenkins_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>7F854851-A6F2-4012-A939-8E7D39FF8766</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
