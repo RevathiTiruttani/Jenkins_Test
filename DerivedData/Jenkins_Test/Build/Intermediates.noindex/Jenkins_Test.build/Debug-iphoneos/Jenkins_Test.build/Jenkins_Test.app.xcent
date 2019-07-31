@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>6BXYLXW992.com.btor.Jenkins-Test</string>
+	<string>9JBBBZ4UYB.com.btor.a55</string>
 	<key>com.apple.developer.team-identifier</key>
-	<string>6BXYLXW992</string>
+	<string>G385A2CHPU</string>
 	<key>get-task-allow</key>
 	<true/>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>6BXYLXW992.com.btor.Jenkins-Test</string>
+		<string>9JBBBZ4UYB.com.btor.a55</string>
 	</array>
 </dict>
 </plist>

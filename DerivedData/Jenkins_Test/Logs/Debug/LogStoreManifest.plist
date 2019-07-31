@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>BA4C6F36-EB67-4EA9-BE6B-6005FBB3B4CF</key>
+		<key>09B193F3-487D-407D-94E8-CE9964006918</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,11 +15,11 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>BA4C6F36-EB67-4EA9-BE6B-6005FBB3B4CF.xcactivitylog</string>
+			<string>09B193F3-487D-407D-94E8-CE9964006918.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>S</string>
 			<key>schemeIdentifier-containerName</key>
-			<string>Jenkins_Test Workspace</string>
+			<string>Jenkins_Test project</string>
 			<key>schemeIdentifier-schemeName</key>
 			<string>Jenkins_Test</string>
 			<key>schemeIdentifier-sharedScheme</key>
@@ -27,13 +27,13 @@
 			<key>signature</key>
 			<string>Debug Jenkins_Test</string>
 			<key>timeStartedRecording</key>
-			<real>585211069.21453297</real>
+			<real>585839853.45958102</real>
 			<key>timeStoppedRecording</key>
-			<real>585211119.41473901</real>
+			<real>585842669.18167102</real>
 			<key>title</key>
 			<string>Debug Jenkins_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>BA4C6F36-EB67-4EA9-BE6B-6005FBB3B4CF</string>
+			<string>09B193F3-487D-407D-94E8-CE9964006918</string>
 		</dict>
 	</dict>
 </dict>
