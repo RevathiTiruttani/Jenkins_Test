@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>88DA6C04-30B6-48D0-BEFB-3AFD40C94730</key>
+		<key>F3472233-777E-4AA6-B5E7-F65D84DCFB2D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,19 +15,19 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>88DA6C04-30B6-48D0-BEFB-3AFD40C94730.xcactivitylog</string>
+			<string>F3472233-777E-4AA6-B5E7-F65D84DCFB2D.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>signature</key>
 			<string>Jenkins_Test-cdumbwsttbaaaickvnvfalplvisr</string>
 			<key>timeStartedRecording</key>
-			<real>586273918.20361197</real>
+			<real>586426565.27270699</real>
 			<key>timeStoppedRecording</key>
-			<real>586273923.54609299</real>
+			<real>586426565.58599198</real>
 			<key>title</key>
 			<string>Build target Jenkins_Test</string>
 			<key>uniqueIdentifier</key>
-			<string>88DA6C04-30B6-48D0-BEFB-3AFD40C94730</string>
+			<string>F3472233-777E-4AA6-B5E7-F65D84DCFB2D</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
