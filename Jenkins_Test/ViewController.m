@@ -17,7 +17,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"Launched Succesfully");
-    NSLog(@"Testing Jenkins");
 
     [UIView animateWithDuration:0.5
                           delay:0.2f

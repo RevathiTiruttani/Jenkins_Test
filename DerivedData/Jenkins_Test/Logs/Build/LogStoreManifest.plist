@@ -6,6 +6,35 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
+		<key>CBCAF44A-DE42-44F9-9252-B8877850BCCA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CBCAF44A-DE42-44F9-9252-B8877850BCCA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Jenkins_Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Jenkins_Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Jenkins_Test</string>
+			<key>timeStartedRecording</key>
+			<real>586781091.63208997</real>
+			<key>timeStoppedRecording</key>
+			<real>586781092.10746503</real>
+			<key>title</key>
+			<string>Build Jenkins_Test</string>
+			<key>uniqueIdentifier</key>
+			<string>CBCAF44A-DE42-44F9-9252-B8877850BCCA</string>
+		</dict>
 		<key>E62A5ED5-2151-4101-B405-F9574F0907A8</key>
 		<dict>
 			<key>className</key>
@@ -34,35 +63,6 @@
 			<string>Build Jenkins_Test</string>
 			<key>uniqueIdentifier</key>
 			<string>E62A5ED5-2151-4101-B405-F9574F0907A8</string>
-		</dict>
-		<key>E7F7CE95-B00B-41A3-9BA4-08C8978FF747</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>E7F7CE95-B00B-41A3-9BA4-08C8978FF747.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>Jenkins_Test project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Jenkins_Test</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Jenkins_Test</string>
-			<key>timeStartedRecording</key>
-			<real>586422753.29527795</real>
-			<key>timeStoppedRecording</key>
-			<real>586422753.32117403</real>
-			<key>title</key>
-			<string>Build Jenkins_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>E7F7CE95-B00B-41A3-9BA4-08C8978FF747</string>
 		</dict>
 	</dict>
 </dict>
