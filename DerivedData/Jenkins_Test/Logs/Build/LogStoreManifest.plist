@@ -35,35 +35,6 @@
 			<key>uniqueIdentifier</key>
 			<string>CB33FEDB-6B24-4760-826E-1549DAE97433</string>
 		</dict>
-		<key>CBCAF44A-DE42-44F9-9252-B8877850BCCA</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>CBCAF44A-DE42-44F9-9252-B8877850BCCA.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>Jenkins_Test project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Jenkins_Test</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Jenkins_Test</string>
-			<key>timeStartedRecording</key>
-			<real>586781091.63208997</real>
-			<key>timeStoppedRecording</key>
-			<real>586781092.10746503</real>
-			<key>title</key>
-			<string>Build Jenkins_Test</string>
-			<key>uniqueIdentifier</key>
-			<string>CBCAF44A-DE42-44F9-9252-B8877850BCCA</string>
-		</dict>
 	</dict>
 </dict>
 </plist>
